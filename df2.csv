@@ -1,0 +1,817 @@
+,Año,Trimestre,Provincia,Mbps (Media de bajada)
+0,2022,2,Buenos Aires,66
+1,2022,2,Capital Federal,94
+2,2022,2,Catamarca,57
+3,2022,2,Chaco,51
+4,2022,2,Chubut,15
+5,2022,2,Córdoba,54
+6,2022,2,Corrientes,43
+7,2022,2,Entre Ríos,40
+8,2022,2,Formosa,28
+9,2022,2,Jujuy,29
+10,2022,2,La Pampa,16
+11,2022,2,La Rioja,43
+12,2022,2,Mendoza,30
+13,2022,2,Misiones,46
+14,2022,2,Neuquén,47
+15,2022,2,Río Negro,33
+16,2022,2,Salta,39
+17,2022,2,San Juan,14
+18,2022,2,San Luis,19
+19,2022,2,Santa Cruz,12
+20,2022,2,Santa Fe,42
+21,2022,2,Santiago Del Estero,16
+22,2022,2,Tierra Del Fuego,11
+23,2022,2,Tucumán,50
+24,2022,1,Buenos Aires,63
+25,2022,1,Capital Federal,88
+26,2022,1,Catamarca,51
+27,2022,1,Chaco,46
+28,2022,1,Chubut,13
+29,2022,1,Córdoba,50
+30,2022,1,Corrientes,38
+31,2022,1,Entre Ríos,36
+32,2022,1,Formosa,30
+33,2022,1,Jujuy,28
+34,2022,1,La Pampa,15
+35,2022,1,La Rioja,41
+36,2022,1,Mendoza,26
+37,2022,1,Misiones,42
+38,2022,1,Neuquén,43
+39,2022,1,Río Negro,31
+40,2022,1,Salta,37
+41,2022,1,San Juan,12
+42,2022,1,San Luis,21
+43,2022,1,Santa Cruz,11
+44,2022,1,Santa Fe,39
+45,2022,1,Santiago Del Estero,14
+46,2022,1,Tierra Del Fuego,11
+47,2022,1,Tucumán,47
+48,2021,4,Buenos Aires,60
+49,2021,4,Capital Federal,83
+50,2021,4,Catamarca,46
+51,2021,4,Chaco,42
+52,2021,4,Chubut,9
+53,2021,4,Córdoba,46
+54,2021,4,Corrientes,36
+55,2021,4,Entre Ríos,33
+56,2021,4,Formosa,29
+57,2021,4,Jujuy,27
+58,2021,4,La Pampa,14
+59,2021,4,La Rioja,40
+60,2021,4,Mendoza,22
+61,2021,4,Misiones,39
+62,2021,4,Neuquén,40
+63,2021,4,Río Negro,27
+64,2021,4,Salta,34
+65,2021,4,San Juan,11
+66,2021,4,San Luis,21
+67,2021,4,Santa Cruz,9
+68,2021,4,Santa Fe,36
+69,2021,4,Santiago Del Estero,14
+70,2021,4,Tierra Del Fuego,11
+71,2021,4,Tucumán,45
+72,2021,3,Buenos Aires,56
+73,2021,3,Capital Federal,78
+74,2021,3,Catamarca,43
+75,2021,3,Chaco,39
+76,2021,3,Chubut,8
+77,2021,3,Córdoba,42
+78,2021,3,Corrientes,32
+79,2021,3,Entre Ríos,30
+80,2021,3,Formosa,27
+81,2021,3,Jujuy,26
+82,2021,3,La Pampa,13
+83,2021,3,La Rioja,39
+84,2021,3,Mendoza,13
+85,2021,3,Misiones,31
+86,2021,3,Neuquén,38
+87,2021,3,Río Negro,25
+88,2021,3,Salta,31
+89,2021,3,San Juan,7
+90,2021,3,San Luis,22
+91,2021,3,Santa Cruz,8
+92,2021,3,Santa Fe,33
+93,2021,3,Santiago Del Estero,13
+94,2021,3,Tierra Del Fuego,10
+95,2021,3,Tucumán,42
+96,2021,2,Buenos Aires,53
+97,2021,2,Capital Federal,73
+98,2021,2,Catamarca,42
+99,2021,2,Chaco,37
+100,2021,2,Chubut,8
+101,2021,2,Córdoba,40
+102,2021,2,Corrientes,30
+103,2021,2,Entre Ríos,28
+104,2021,2,Formosa,24
+105,2021,2,Jujuy,26
+106,2021,2,La Pampa,12
+107,2021,2,La Rioja,39
+108,2021,2,Mendoza,13
+109,2021,2,Misiones,29
+110,2021,2,Neuquén,36
+111,2021,2,Río Negro,24
+112,2021,2,Salta,29
+113,2021,2,San Juan,7
+114,2021,2,San Luis,22
+115,2021,2,Santa Cruz,8
+116,2021,2,Santa Fe,31
+117,2021,2,Santiago Del Estero,13
+118,2021,2,Tierra Del Fuego,9
+119,2021,2,Tucumán,40
+120,2021,1,Buenos Aires,51
+121,2021,1,Capital Federal,68
+122,2021,1,Catamarca,40
+123,2021,1,Chaco,34
+124,2021,1,Chubut,8
+125,2021,1,Córdoba,36
+126,2021,1,Corrientes,26
+127,2021,1,Entre Ríos,24
+128,2021,1,Formosa,21
+129,2021,1,Jujuy,27
+130,2021,1,La Pampa,11
+131,2021,1,La Rioja,13
+132,2021,1,Mendoza,13
+133,2021,1,Misiones,25
+134,2021,1,Neuquén,34
+135,2021,1,Río Negro,22
+136,2021,1,Salta,27
+137,2021,1,San Juan,7
+138,2021,1,San Luis,22
+139,2021,1,Santa Cruz,8
+140,2021,1,Santa Fe,28
+141,2021,1,Santiago Del Estero,12
+142,2021,1,Tierra Del Fuego,9
+143,2021,1,Tucumán,38
+144,2020,4,Buenos Aires,50
+145,2020,4,Capital Federal,67
+146,2020,4,Catamarca,38
+147,2020,4,Chaco,32
+148,2020,4,Chubut,7
+149,2020,4,Córdoba,35
+150,2020,4,Corrientes,25
+151,2020,4,Entre Ríos,24
+152,2020,4,Formosa,20
+153,2020,4,Jujuy,25
+154,2020,4,La Pampa,10
+155,2020,4,La Rioja,13
+156,2020,4,Mendoza,11
+157,2020,4,Misiones,25
+158,2020,4,Neuquén,34
+159,2020,4,Río Negro,22
+160,2020,4,Salta,25
+161,2020,4,San Juan,6
+162,2020,4,San Luis,21
+163,2020,4,Santa Cruz,7
+164,2020,4,Santa Fe,27
+165,2020,4,Santiago Del Estero,11
+166,2020,4,Tierra Del Fuego,8
+167,2020,4,Tucumán,36
+168,2020,3,Buenos Aires,48
+169,2020,3,Capital Federal,64
+170,2020,3,Catamarca,37
+171,2020,3,Chaco,31
+172,2020,3,Chubut,7
+173,2020,3,Córdoba,34
+174,2020,3,Corrientes,24
+175,2020,3,Entre Ríos,22
+176,2020,3,Formosa,18
+177,2020,3,Jujuy,22
+178,2020,3,La Pampa,11
+179,2020,3,La Rioja,12
+180,2020,3,Mendoza,10
+181,2020,3,Misiones,24
+182,2020,3,Neuquén,31
+183,2020,3,Río Negro,21
+184,2020,3,Salta,25
+185,2020,3,San Juan,6
+186,2020,3,San Luis,21
+187,2020,3,Santa Cruz,7
+188,2020,3,Santa Fe,26
+189,2020,3,Santiago Del Estero,11
+190,2020,3,Tierra Del Fuego,9
+191,2020,3,Tucumán,35
+192,2020,2,Buenos Aires,46
+193,2020,2,Capital Federal,60
+194,2020,2,Catamarca,35
+195,2020,2,Chaco,28
+196,2020,2,Chubut,8
+197,2020,2,Córdoba,31
+198,2020,2,Corrientes,22
+199,2020,2,Entre Ríos,20
+200,2020,2,Formosa,17
+201,2020,2,Jujuy,16
+202,2020,2,La Pampa,8
+203,2020,2,La Rioja,12
+204,2020,2,Mendoza,9
+205,2020,2,Misiones,23
+206,2020,2,Neuquén,29
+207,2020,2,Río Negro,20
+208,2020,2,Salta,23
+209,2020,2,San Juan,6
+210,2020,2,San Luis,21
+211,2020,2,Santa Cruz,7
+212,2020,2,Santa Fe,24
+213,2020,2,Santiago Del Estero,10
+214,2020,2,Tierra Del Fuego,8
+215,2020,2,Tucumán,33
+216,2020,1,Buenos Aires,45
+217,2020,1,Capital Federal,59
+218,2020,1,Catamarca,29
+219,2020,1,Chaco,26
+220,2020,1,Chubut,7
+221,2020,1,Córdoba,29
+222,2020,1,Corrientes,21
+223,2020,1,Entre Ríos,19
+224,2020,1,Formosa,16
+225,2020,1,Jujuy,14
+226,2020,1,La Pampa,7
+227,2020,1,La Rioja,8
+228,2020,1,Mendoza,8
+229,2020,1,Misiones,22
+230,2020,1,Neuquén,28
+231,2020,1,Río Negro,19
+232,2020,1,Salta,21
+233,2020,1,San Juan,6
+234,2020,1,San Luis,21
+235,2020,1,Santa Cruz,6
+236,2020,1,Santa Fe,22
+237,2020,1,Santiago Del Estero,10
+238,2020,1,Tierra Del Fuego,7
+239,2020,1,Tucumán,32
+240,2019,4,Buenos Aires,31
+241,2019,4,Capital Federal,44
+242,2019,4,Catamarca,25
+243,2019,4,Chaco,23
+244,2019,4,Chubut,7
+245,2019,4,Córdoba,26
+246,2019,4,Corrientes,19
+247,2019,4,Entre Ríos,17
+248,2019,4,Formosa,15
+249,2019,4,Jujuy,13
+250,2019,4,La Pampa,7
+251,2019,4,La Rioja,8
+252,2019,4,Mendoza,8
+253,2019,4,Misiones,20
+254,2019,4,Neuquén,26
+255,2019,4,Río Negro,17
+256,2019,4,Salta,19
+257,2019,4,San Juan,6
+258,2019,4,San Luis,21
+259,2019,4,Santa Cruz,5
+260,2019,4,Santa Fe,21
+261,2019,4,Santiago Del Estero,10
+262,2019,4,Tierra Del Fuego,7
+263,2019,4,Tucumán,30
+264,2019,3,Buenos Aires,26
+265,2019,3,Capital Federal,39
+266,2019,3,Catamarca,9
+267,2019,3,Chaco,20
+268,2019,3,Chubut,7
+269,2019,3,Córdoba,23
+270,2019,3,Corrientes,17
+271,2019,3,Entre Ríos,15
+272,2019,3,Formosa,13
+273,2019,3,Jujuy,12
+274,2019,3,La Pampa,6
+275,2019,3,La Rioja,8
+276,2019,3,Mendoza,6
+277,2019,3,Misiones,18
+278,2019,3,Neuquén,24
+279,2019,3,Río Negro,16
+280,2019,3,Salta,15
+281,2019,3,San Juan,6
+282,2019,3,San Luis,20
+283,2019,3,Santa Cruz,5
+284,2019,3,Santa Fe,18
+285,2019,3,Santiago Del Estero,9
+286,2019,3,Tierra Del Fuego,7
+287,2019,3,Tucumán,19
+288,2019,2,Buenos Aires,22
+289,2019,2,Capital Federal,30
+290,2019,2,Catamarca,9
+291,2019,2,Chaco,16
+292,2019,2,Chubut,6
+293,2019,2,Córdoba,18
+294,2019,2,Corrientes,14
+295,2019,2,Entre Ríos,12
+296,2019,2,Formosa,11
+297,2019,2,Jujuy,12
+298,2019,2,La Pampa,5
+299,2019,2,La Rioja,8
+300,2019,2,Mendoza,6
+301,2019,2,Misiones,14
+302,2019,2,Neuquén,17
+303,2019,2,Río Negro,12
+304,2019,2,Salta,13
+305,2019,2,San Juan,6
+306,2019,2,San Luis,20
+307,2019,2,Santa Cruz,6
+308,2019,2,Santa Fe,15
+309,2019,2,Santiago Del Estero,7
+310,2019,2,Tierra Del Fuego,6
+311,2019,2,Tucumán,19
+312,2019,1,Buenos Aires,20
+313,2019,1,Capital Federal,25
+314,2019,1,Catamarca,8
+315,2019,1,Chaco,13
+316,2019,1,Chubut,6
+317,2019,1,Córdoba,16
+318,2019,1,Corrientes,12
+319,2019,1,Entre Ríos,11
+320,2019,1,Formosa,10
+321,2019,1,Jujuy,9
+322,2019,1,La Pampa,5
+323,2019,1,La Rioja,7
+324,2019,1,Mendoza,6
+325,2019,1,Misiones,13
+326,2019,1,Neuquén,16
+327,2019,1,Río Negro,10
+328,2019,1,Salta,10
+329,2019,1,San Juan,6
+330,2019,1,San Luis,9
+331,2019,1,Santa Cruz,6
+332,2019,1,Santa Fe,13
+333,2019,1,Santiago Del Estero,6
+334,2019,1,Tierra Del Fuego,6
+335,2019,1,Tucumán,17
+336,2018,4,Buenos Aires,17
+337,2018,4,Capital Federal,23
+338,2018,4,Catamarca,8
+339,2018,4,Chaco,13
+340,2018,4,Chubut,6
+341,2018,4,Córdoba,16
+342,2018,4,Corrientes,12
+343,2018,4,Entre Ríos,11
+344,2018,4,Formosa,10
+345,2018,4,Jujuy,9
+346,2018,4,La Pampa,4
+347,2018,4,La Rioja,7
+348,2018,4,Mendoza,6
+349,2018,4,Misiones,12
+350,2018,4,Neuquén,16
+351,2018,4,Río Negro,10
+352,2018,4,Salta,10
+353,2018,4,San Juan,6
+354,2018,4,San Luis,9
+355,2018,4,Santa Cruz,5
+356,2018,4,Santa Fe,13
+357,2018,4,Santiago Del Estero,6
+358,2018,4,Tierra Del Fuego,7
+359,2018,4,Tucumán,17
+360,2018,3,Buenos Aires,17
+361,2018,3,Capital Federal,22
+362,2018,3,Catamarca,8
+363,2018,3,Chaco,13
+364,2018,3,Chubut,6
+365,2018,3,Córdoba,15
+366,2018,3,Corrientes,11
+367,2018,3,Entre Ríos,11
+368,2018,3,Formosa,9
+369,2018,3,Jujuy,8
+370,2018,3,La Pampa,4
+371,2018,3,La Rioja,6
+372,2018,3,Mendoza,6
+373,2018,3,Misiones,12
+374,2018,3,Neuquén,15
+375,2018,3,Río Negro,10
+376,2018,3,Salta,9
+377,2018,3,San Juan,6
+378,2018,3,San Luis,9
+379,2018,3,Santa Cruz,5
+380,2018,3,Santa Fe,12
+381,2018,3,Santiago Del Estero,6
+382,2018,3,Tierra Del Fuego,6
+383,2018,3,Tucumán,15
+384,2018,2,Buenos Aires,15
+385,2018,2,Capital Federal,19
+386,2018,2,Catamarca,8
+387,2018,2,Chaco,12
+388,2018,2,Chubut,5
+389,2018,2,Córdoba,14
+390,2018,2,Corrientes,11
+391,2018,2,Entre Ríos,10
+392,2018,2,Formosa,9
+393,2018,2,Jujuy,6
+394,2018,2,La Pampa,4
+395,2018,2,La Rioja,6
+396,2018,2,Mendoza,6
+397,2018,2,Misiones,12
+398,2018,2,Neuquén,13
+399,2018,2,Río Negro,10
+400,2018,2,Salta,9
+401,2018,2,San Juan,6
+402,2018,2,San Luis,6
+403,2018,2,Santa Cruz,5
+404,2018,2,Santa Fe,12
+405,2018,2,Santiago Del Estero,6
+406,2018,2,Tierra Del Fuego,6
+407,2018,2,Tucumán,14
+408,2018,1,Buenos Aires,14
+409,2018,1,Capital Federal,18
+410,2018,1,Catamarca,8
+411,2018,1,Chaco,12
+412,2018,1,Chubut,5
+413,2018,1,Córdoba,13
+414,2018,1,Corrientes,11
+415,2018,1,Entre Ríos,10
+416,2018,1,Formosa,11
+417,2018,1,Jujuy,7
+418,2018,1,La Pampa,4
+419,2018,1,La Rioja,6
+420,2018,1,Mendoza,6
+421,2018,1,Misiones,12
+422,2018,1,Neuquén,12
+423,2018,1,Río Negro,9
+424,2018,1,Salta,9
+425,2018,1,San Juan,6
+426,2018,1,San Luis,6
+427,2018,1,Santa Cruz,5
+428,2018,1,Santa Fe,11
+429,2018,1,Santiago Del Estero,6
+430,2018,1,Tierra Del Fuego,6
+431,2018,1,Tucumán,9
+432,2017,4,Buenos Aires,13
+433,2017,4,Capital Federal,15
+434,2017,4,Catamarca,8
+435,2017,4,Chaco,12
+436,2017,4,Chubut,5
+437,2017,4,Córdoba,12
+438,2017,4,Corrientes,10
+439,2017,4,Entre Ríos,9
+440,2017,4,Formosa,10
+441,2017,4,Jujuy,7
+442,2017,4,La Pampa,4
+443,2017,4,La Rioja,6
+444,2017,4,Mendoza,6
+445,2017,4,Misiones,11
+446,2017,4,Neuquén,11
+447,2017,4,Río Negro,8
+448,2017,4,Salta,8
+449,2017,4,San Juan,6
+450,2017,4,San Luis,6
+451,2017,4,Santa Cruz,5
+452,2017,4,Santa Fe,10
+453,2017,4,Santiago Del Estero,6
+454,2017,4,Tierra Del Fuego,5
+455,2017,4,Tucumán,9
+456,2017,3,Buenos Aires,8
+457,2017,3,Capital Federal,11
+458,2017,3,Catamarca,5
+459,2017,3,Chaco,8
+460,2017,3,Chubut,3
+461,2017,3,Córdoba,9
+462,2017,3,Corrientes,7
+463,2017,3,Entre Ríos,7
+464,2017,3,Formosa,7
+465,2017,3,Jujuy,5
+466,2017,3,La Pampa,3
+467,2017,3,La Rioja,5
+468,2017,3,Mendoza,4
+469,2017,3,Misiones,8
+470,2017,3,Neuquén,8
+471,2017,3,Río Negro,5
+472,2017,3,Salta,6
+473,2017,3,San Juan,3
+474,2017,3,San Luis,4
+475,2017,3,Santa Cruz,4
+476,2017,3,Santa Fe,8
+477,2017,3,Santiago Del Estero,5
+478,2017,3,Tierra Del Fuego,3
+479,2017,3,Tucumán,6
+480,2017,2,Buenos Aires,7
+481,2017,2,Capital Federal,9
+482,2017,2,Catamarca,5
+483,2017,2,Chaco,8
+484,2017,2,Chubut,3
+485,2017,2,Córdoba,7
+486,2017,2,Corrientes,7
+487,2017,2,Entre Ríos,6
+488,2017,2,Formosa,6
+489,2017,2,Jujuy,5
+490,2017,2,La Pampa,3
+491,2017,2,La Rioja,6
+492,2017,2,Mendoza,4
+493,2017,2,Misiones,8
+494,2017,2,Neuquén,7
+495,2017,2,Río Negro,5
+496,2017,2,Salta,6
+497,2017,2,San Juan,3
+498,2017,2,San Luis,4
+499,2017,2,Santa Cruz,4
+500,2017,2,Santa Fe,7
+501,2017,2,Santiago Del Estero,5
+502,2017,2,Tierra Del Fuego,3
+503,2017,2,Tucumán,6
+504,2017,1,Buenos Aires,7
+505,2017,1,Capital Federal,8
+506,2017,1,Catamarca,5
+507,2017,1,Chaco,7
+508,2017,1,Chubut,3
+509,2017,1,Córdoba,7
+510,2017,1,Corrientes,6
+511,2017,1,Entre Ríos,6
+512,2017,1,Formosa,6
+513,2017,1,Jujuy,4
+514,2017,1,La Pampa,3
+515,2017,1,La Rioja,5
+516,2017,1,Mendoza,4
+517,2017,1,Misiones,7
+518,2017,1,Neuquén,6
+519,2017,1,Río Negro,4
+520,2017,1,Salta,5
+521,2017,1,San Juan,3
+522,2017,1,San Luis,4
+523,2017,1,Santa Cruz,4
+524,2017,1,Santa Fe,6
+525,2017,1,Santiago Del Estero,5
+526,2017,1,Tierra Del Fuego,3
+527,2017,1,Tucumán,6
+528,2016,4,Buenos Aires,6
+529,2016,4,Capital Federal,8
+530,2016,4,Catamarca,5
+531,2016,4,Chaco,7
+532,2016,4,Chubut,3
+533,2016,4,Córdoba,6
+534,2016,4,Corrientes,6
+535,2016,4,Entre Ríos,6
+536,2016,4,Formosa,6
+537,2016,4,Jujuy,4
+538,2016,4,La Pampa,3
+539,2016,4,La Rioja,5
+540,2016,4,Mendoza,4
+541,2016,4,Misiones,7
+542,2016,4,Neuquén,6
+543,2016,4,Río Negro,4
+544,2016,4,Salta,5
+545,2016,4,San Juan,3
+546,2016,4,San Luis,4
+547,2016,4,Santa Cruz,4
+548,2016,4,Santa Fe,6
+549,2016,4,Santiago Del Estero,5
+550,2016,4,Tierra Del Fuego,3
+551,2016,4,Tucumán,6
+552,2016,3,Buenos Aires,6
+553,2016,3,Capital Federal,7
+554,2016,3,Catamarca,5
+555,2016,3,Chaco,7
+556,2016,3,Chubut,3
+557,2016,3,Córdoba,6
+558,2016,3,Corrientes,6
+559,2016,3,Entre Ríos,6
+560,2016,3,Formosa,5
+561,2016,3,Jujuy,4
+562,2016,3,La Pampa,3
+563,2016,3,La Rioja,5
+564,2016,3,Mendoza,4
+565,2016,3,Misiones,7
+566,2016,3,Neuquén,5
+567,2016,3,Río Negro,4
+568,2016,3,Salta,5
+569,2016,3,San Juan,3
+570,2016,3,San Luis,4
+571,2016,3,Santa Cruz,4
+572,2016,3,Santa Fe,6
+573,2016,3,Santiago Del Estero,5
+574,2016,3,Tierra Del Fuego,3
+575,2016,3,Tucumán,6
+576,2016,2,Buenos Aires,5
+577,2016,2,Capital Federal,7
+578,2016,2,Catamarca,4
+579,2016,2,Chaco,6
+580,2016,2,Chubut,3
+581,2016,2,Córdoba,6
+582,2016,2,Corrientes,6
+583,2016,2,Entre Ríos,5
+584,2016,2,Formosa,5
+585,2016,2,Jujuy,4
+586,2016,2,La Pampa,3
+587,2016,2,La Rioja,5
+588,2016,2,Mendoza,4
+589,2016,2,Misiones,6
+590,2016,2,Neuquén,5
+591,2016,2,Río Negro,4
+592,2016,2,Salta,5
+593,2016,2,San Juan,3
+594,2016,2,San Luis,4
+595,2016,2,Santa Cruz,4
+596,2016,2,Santa Fe,5
+597,2016,2,Santiago Del Estero,4
+598,2016,2,Tierra Del Fuego,3
+599,2016,2,Tucumán,5
+600,2016,1,Buenos Aires,5
+601,2016,1,Capital Federal,6
+602,2016,1,Catamarca,4
+603,2016,1,Chaco,6
+604,2016,1,Chubut,3
+605,2016,1,Córdoba,5
+606,2016,1,Corrientes,5
+607,2016,1,Entre Ríos,5
+608,2016,1,Formosa,5
+609,2016,1,Jujuy,4
+610,2016,1,La Pampa,3
+611,2016,1,La Rioja,5
+612,2016,1,Mendoza,4
+613,2016,1,Misiones,6
+614,2016,1,Neuquén,4
+615,2016,1,Río Negro,4
+616,2016,1,Salta,5
+617,2016,1,San Juan,3
+618,2016,1,San Luis,4
+619,2016,1,Santa Cruz,3
+620,2016,1,Santa Fe,5
+621,2016,1,Santiago Del Estero,4
+622,2016,1,Tierra Del Fuego,3
+623,2016,1,Tucumán,5
+624,2015,4,Buenos Aires,5
+625,2015,4,Capital Federal,6
+626,2015,4,Catamarca,4
+627,2015,4,Chaco,6
+628,2015,4,Chubut,3
+629,2015,4,Córdoba,5
+630,2015,4,Corrientes,5
+631,2015,4,Entre Ríos,5
+632,2015,4,Formosa,5
+633,2015,4,Jujuy,4
+634,2015,4,La Pampa,3
+635,2015,4,La Rioja,5
+636,2015,4,Mendoza,4
+637,2015,4,Misiones,6
+638,2015,4,Neuquén,4
+639,2015,4,Río Negro,4
+640,2015,4,Salta,5
+641,2015,4,San Juan,3
+642,2015,4,San Luis,4
+643,2015,4,Santa Cruz,3
+644,2015,4,Santa Fe,5
+645,2015,4,Santiago Del Estero,4
+646,2015,4,Tierra Del Fuego,3
+647,2015,4,Tucumán,5
+648,2015,3,Buenos Aires,5
+649,2015,3,Capital Federal,6
+650,2015,3,Catamarca,4
+651,2015,3,Chaco,5
+652,2015,3,Chubut,3
+653,2015,3,Córdoba,5
+654,2015,3,Corrientes,5
+655,2015,3,Entre Ríos,5
+656,2015,3,Formosa,4
+657,2015,3,Jujuy,4
+658,2015,3,La Pampa,3
+659,2015,3,La Rioja,4
+660,2015,3,Mendoza,4
+661,2015,3,Misiones,6
+662,2015,3,Neuquén,4
+663,2015,3,Río Negro,4
+664,2015,3,Salta,4
+665,2015,3,San Juan,3
+666,2015,3,San Luis,4
+667,2015,3,Santa Cruz,3
+668,2015,3,Santa Fe,5
+669,2015,3,Santiago Del Estero,4
+670,2015,3,Tierra Del Fuego,3
+671,2015,3,Tucumán,5
+672,2015,2,Buenos Aires,4
+673,2015,2,Capital Federal,5
+674,2015,2,Catamarca,4
+675,2015,2,Chaco,5
+676,2015,2,Chubut,3
+677,2015,2,Córdoba,5
+678,2015,2,Corrientes,5
+679,2015,2,Entre Ríos,5
+680,2015,2,Formosa,4
+681,2015,2,Jujuy,3
+682,2015,2,La Pampa,3
+683,2015,2,La Rioja,4
+684,2015,2,Mendoza,4
+685,2015,2,Misiones,5
+686,2015,2,Neuquén,4
+687,2015,2,Río Negro,4
+688,2015,2,Salta,4
+689,2015,2,San Juan,3
+690,2015,2,San Luis,4
+691,2015,2,Santa Cruz,3
+692,2015,2,Santa Fe,4
+693,2015,2,Santiago Del Estero,4
+694,2015,2,Tierra Del Fuego,3
+695,2015,2,Tucumán,4
+696,2015,1,Buenos Aires,4
+697,2015,1,Capital Federal,5
+698,2015,1,Catamarca,3
+699,2015,1,Chaco,5
+700,2015,1,Chubut,3
+701,2015,1,Córdoba,4
+702,2015,1,Corrientes,5
+703,2015,1,Entre Ríos,4
+704,2015,1,Formosa,3
+705,2015,1,Jujuy,3
+706,2015,1,La Pampa,3
+707,2015,1,La Rioja,4
+708,2015,1,Mendoza,4
+709,2015,1,Misiones,5
+710,2015,1,Neuquén,4
+711,2015,1,Río Negro,4
+712,2015,1,Salta,4
+713,2015,1,San Juan,3
+714,2015,1,San Luis,4
+715,2015,1,Santa Cruz,3
+716,2015,1,Santa Fe,4
+717,2015,1,Santiago Del Estero,4
+718,2015,1,Tierra Del Fuego,3
+719,2015,1,Tucumán,4
+720,2014,4,Buenos Aires,4
+721,2014,4,Capital Federal,5
+722,2014,4,Catamarca,3
+723,2014,4,Chaco,4
+724,2014,4,Chubut,3
+725,2014,4,Córdoba,4
+726,2014,4,Corrientes,4
+727,2014,4,Entre Ríos,4
+728,2014,4,Formosa,3
+729,2014,4,Jujuy,3
+730,2014,4,La Pampa,3
+731,2014,4,La Rioja,4
+732,2014,4,Mendoza,4
+733,2014,4,Misiones,4
+734,2014,4,Neuquén,4
+735,2014,4,Río Negro,4
+736,2014,4,Salta,4
+737,2014,4,San Juan,3
+738,2014,4,San Luis,4
+739,2014,4,Santa Cruz,3
+740,2014,4,Santa Fe,4
+741,2014,4,Santiago Del Estero,3
+742,2014,4,Tierra Del Fuego,3
+743,2014,4,Tucumán,4
+744,2014,3,Buenos Aires,4
+745,2014,3,Capital Federal,4
+746,2014,3,Catamarca,3
+747,2014,3,Chaco,3
+748,2014,3,Chubut,3
+749,2014,3,Córdoba,4
+750,2014,3,Corrientes,3
+751,2014,3,Entre Ríos,3
+752,2014,3,Formosa,3
+753,2014,3,Jujuy,3
+754,2014,3,La Pampa,3
+755,2014,3,La Rioja,3
+756,2014,3,Mendoza,4
+757,2014,3,Misiones,4
+758,2014,3,Neuquén,4
+759,2014,3,Río Negro,3
+760,2014,3,Salta,3
+761,2014,3,San Juan,3
+762,2014,3,San Luis,4
+763,2014,3,Santa Cruz,3
+764,2014,3,Santa Fe,3
+765,2014,3,Santiago Del Estero,3
+766,2014,3,Tierra Del Fuego,3
+767,2014,3,Tucumán,3
+768,2014,2,Buenos Aires,4
+769,2014,2,Capital Federal,4
+770,2014,2,Catamarca,3
+771,2014,2,Chaco,3
+772,2014,2,Chubut,3
+773,2014,2,Córdoba,4
+774,2014,2,Corrientes,3
+775,2014,2,Entre Ríos,3
+776,2014,2,Formosa,3
+777,2014,2,Jujuy,3
+778,2014,2,La Pampa,3
+779,2014,2,La Rioja,3
+780,2014,2,Mendoza,4
+781,2014,2,Misiones,4
+782,2014,2,Neuquén,4
+783,2014,2,Río Negro,3
+784,2014,2,Salta,3
+785,2014,2,San Juan,3
+786,2014,2,San Luis,4
+787,2014,2,Santa Cruz,3
+788,2014,2,Santa Fe,3
+789,2014,2,Santiago Del Estero,3
+790,2014,2,Tierra Del Fuego,3
+791,2014,2,Tucumán,3
+792,2014,1,Buenos Aires,4
+793,2014,1,Capital Federal,4
+794,2014,1,Catamarca,3
+795,2014,1,Chaco,3
+796,2014,1,Chubut,3
+797,2014,1,Córdoba,3
+798,2014,1,Corrientes,3
+799,2014,1,Entre Ríos,3
+800,2014,1,Formosa,3
+801,2014,1,Jujuy,3
+802,2014,1,La Pampa,3
+803,2014,1,La Rioja,3
+804,2014,1,Mendoza,4
+805,2014,1,Misiones,3
+806,2014,1,Neuquén,4
+807,2014,1,Río Negro,3
+808,2014,1,Salta,3
+809,2014,1,San Juan,3
+810,2014,1,San Luis,4
+811,2014,1,Santa Cruz,3
+812,2014,1,Santa Fe,3
+813,2014,1,Santiago Del Estero,3
+814,2014,1,Tierra Del Fuego,3
+815,2014,1,Tucumán,3
